@@ -1,12 +1,10 @@
-## Project version: 
-## Operating system: 
-## Hardware: 
+## Setup Enviroment 
+SDK version: 
+OS (Type & version): 
+Hardware:
 
+### Detailed Description
 
-## Expected Behavior:
+# Expected Behavior
 
-
-## Actual Behavior:
-
-
-## Detailed Description:
+[] Actual Behavior
