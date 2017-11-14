@@ -1,11 +1,11 @@
 ## Setup Enviroment 
 #### SDK version: 
 #### OS (Type & version): 
-- [ ] Linux, - [ ] Mac, - [ ] Jessy 
+- [ ] Linux , - [ ] Mac , - [ ] Jessy 
 #### Hardware:
-- [x] Finish my changes
-- [x] Push my commits to GitHub
-- [x] Open a pull request
+- [ ] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
 
 ### Detailed Description
 
