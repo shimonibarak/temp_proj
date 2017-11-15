@@ -33,3 +33,11 @@
 * Browser Name and version:
 * Operating System and version (desktop or mobile):
 * Link to your project:
+
+<details>
+<summary>Heading</summary>
+    + markdown list 1
+        + nested list 1
+        + nested list 2
+    + markdown list 2
+</details>
