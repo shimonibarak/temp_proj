@@ -17,7 +17,7 @@
 ## Your Environment
 <!--- Include as many relevant details about the environment you experienced the bug in -->
 #### SDK version: 
-  <x.y.z> 
+      <x.y.z> 
 #### Hardware:
 - [ ] Desktop
 - [ ] Raspberry Pi
