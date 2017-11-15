@@ -8,12 +8,7 @@
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
 
-### Detailed Description
 
-# Expected Behavior
-
-
-<!--- Provide a general summary of the issue in the Title above -->
 ## Description
 <!--- Provide a more detailed introduction to the issue itself, and why you consider it to be a bug -->
 
@@ -38,32 +33,3 @@
 * Browser Name and version:
 * Operating System and version (desktop or mobile):
 * Link to your project:
-
-
-input.scss
-```scss
-test {
-  content: bar
-}
-```
-
-[libsass 3.5.5] [1]
-```css
-test {
-  content: bar; }
-```
-
-ruby sass 3.4.21
-```css
-test {
-  content: bar; }
-```
-
-version info:
-```cmd
-$ node-sass --version
-node-sass       3.3.3   (Wrapper)       [JavaScript]
-libsass         3.2.5   (Sass Compiler) [C/C++]
-```
-
-[1]: http://libsass.ocbnet.ch/srcmap/#dGVzdCB7CiAgY29udGVudDogYmFyOyB9Cg==
