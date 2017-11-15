@@ -1,16 +1,4 @@
 <!--- Provide a general summary of the issue in the Title above -->
-## Setup Enviroment 
-#### SDK version: 
-#### OS (Type & version): 
-- [ ] Linux
-- [ ] MacOS 
-- [ ] Jessy 
-- [ ] Other
-#### Hardware:
-- [ ] Desktop
-- [ ] Raspberry Pi
-- [ ] Other
-
 ## Description
 <!--- Provide a more detailed introduction to the issue itself, and why you consider it to be a bug -->
 
@@ -34,3 +22,13 @@
 * Link to your project:
 
 
+#### SDK version: 
+#### OS (Type & version): 
+- [ ] Linux
+- [ ] MacOS 
+- [ ] Jessy 
+- [ ] Other
+#### Hardware:
+- [ ] Desktop
+- [ ] Raspberry Pi
+- [ ] Other
