@@ -16,19 +16,14 @@
 
 ## Your Environment
 <!--- Include as many relevant details about the environment you experienced the bug in -->
-* Version used:
-* Browser Name and version:
-* Operating System and version (desktop or mobile):
-* Link to your project:
-
-
 #### SDK version: 
+  <x.y.z> 
+#### Hardware:
+- [ ] Desktop
+- [ ] Raspberry Pi
+- [ ] Other
 #### OS (Type & version): 
 - [ ] Linux
 - [ ] MacOS 
 - [ ] Jessy 
-- [ ] Other
-#### Hardware:
-- [ ] Desktop
-- [ ] Raspberry Pi
 - [ ] Other
