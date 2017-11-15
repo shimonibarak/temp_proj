@@ -2,12 +2,14 @@
 ## Setup Enviroment 
 #### SDK version: 
 #### OS (Type & version): 
-- [ ] Linux , - [ ] Mac , - [ ] Jessy 
+- [ ] Linux
+- [ ] MacOS 
+- [ ] Jessy 
+- [ ] Other
 #### Hardware:
-- [ ] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
-
+- [ ] Desktop
+- [ ] Raspberry Pi
+- [ ] Other
 
 ## Description
 <!--- Provide a more detailed introduction to the issue itself, and why you consider it to be a bug -->
@@ -22,10 +24,7 @@
 <!--- Not obligatory, but suggest a fix or reason for the bug -->
 
 ## Steps to Reproduce
-<!--- Provide a link to a live example, or an unambiguous set of steps to --><!--- reproduce this bug. Include code to reproduce, if relevant -->
-
-## Context
-<!--- How has this bug affected you? What were you trying to accomplish? -->
+<!--- Provide the steps for reproduce -->
 
 ## Your Environment
 <!--- Include as many relevant details about the environment you experienced the bug in -->
@@ -34,10 +33,4 @@
 * Operating System and version (desktop or mobile):
 * Link to your project:
 
-<details>
-<summary>Heading</summary>
-    + markdown list 1
-        + nested list 1
-        + nested list 2
-    + markdown list 2
-</details>
+
