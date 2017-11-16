@@ -8,14 +8,6 @@ List any dependencies that are required for this change.  -->
 ## Installation Notes
 <!---  Notes regarding the installation.  -->
 
-## Pull Request Summary
-<!--- A description of the changes proposed in the pull request's commits. 
-Please also include relevant motivation and context which issue is fixed. 
-List any dependencies that are required for this change.  -->
-
-## Installation Notes
-<!---  Notes regarding the installation.  -->
-
 ## How Has This Been Tested?
 <!---  Outline the tests that you ran to verify your changes. 
 Provide instructions so we can reproduce. 
