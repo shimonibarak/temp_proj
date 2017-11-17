@@ -15,7 +15,7 @@ Please also list any relevant details for your test configuration and dependenci
 
 ## Select the Type of Changes
 - [ ] Bug fix (change which fixes an issue)
-- [ ] New feature (hange which adds functionality)
+- [ ] New feature (change which adds functionality)
 
 ## Impacted Areas in Application
 <!---  List general components of the application that this PR will affect.  -->
