@@ -29,20 +29,19 @@ Please also list any relevant details for your test configuration and dependenci
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and included as part of this commit
 
-## Tell us about your environment:
-<!--- Include as many relevant details about the environment you experienced the bug in -->
-### What version of the AVS Device SDK are you using? 
+## Your Environment:
+<!--- Include as many relevant details about the environment you have tested this PR. -->
+### AVS SDK version:  
       <x.y.z> 
       
 ### Tell us what hardware you're using:
-- [ ] Desktop / Laptop
+- [ ] Other – Please specify
 - [ ] Raspberry Pi
-- [ ] Other - tell us more: 
-
+- [ ] Mac 
 
 ### Tell us about your OS (Type & version): 
-- [ ] Linux
-- [ ] MacOS 
-- [ ] Raspbian Stretch
-- [ ] Raspbian Jessy 
-- [ ] Other - tell us more: 
+- [ ] Debian
+- [ ] Ubuntu 
+- [ ] Raspbian
+- [ ] MacOS
+- [ ] Other - please specify 
